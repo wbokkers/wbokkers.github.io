@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "BachCantatas.dll": "sha256-Pp8e7Ok2J0SYtU8l9K+aSPYHsZEN6dvPVke\/5JWw9xc=",
+      "BachCantatas.dll": "sha256-a+W0+zLj4+9SYvkaJ7v+e+1IwELkEf2kH2k7cFjTHK0=",
       "Microsoft.AspNetCore.Components.dll": "sha256-AnDCc5hfuDTM2e5EgHDf2dXLNBHOXmwpkvAzS6ycayo=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-MtAycw6E7J5AejM2LBXAf7BLuwsG\/2Cl7\/5G9LSM7g4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-hItIMIcIumfGi1q3IylwSEfpyLuK1QShnYCDeXYXF+M=",

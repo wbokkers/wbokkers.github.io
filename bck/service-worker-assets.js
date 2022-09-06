@@ -33,11 +33,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-P9jbgTaaqFVNNUhRKrYDvEObUcl+asvU2YqoUHp6Q2Y=",
+      "hash": "sha256-q7ni+bLpz\/uSgHFTp2X+KiU29PM+DuuZdXI5KjlX0cA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-Pp8e7Ok2J0SYtU8l9K+aSPYHsZEN6dvPVke\/5JWw9xc=",
+      "hash": "sha256-a+W0+zLj4+9SYvkaJ7v+e+1IwELkEf2kH2k7cFjTHK0=",
       "url": "_framework\/BachCantatas.dll"
     },
     {
@@ -241,7 +241,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-11z+Ta251HtT0JUwjFkbJrBULaVDr+xSTkVd02flrg8=",
+      "hash": "sha256-FqBxvek3YxTWM\/zDqX4+HIy3GJxaWF4CwM12b16uo\/Y=",
       "url": "index.html"
     },
     {
@@ -253,5 +253,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "x6VmsNFD"
+  "version": "tKlxbuDu"
 };
