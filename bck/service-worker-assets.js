@@ -6,7 +6,7 @@
     },
     {
       "hash": "sha256-WT60vnXnQtCNURE40qo+XSL1o4iYFvABy0NVaFhm7MI=",
-      "url": "_framework\/dotnet.6.0.8.juboef571d.js"
+      "url": "_framework\/dotnet.6.0.8.5qvbcwublj.js"
     },
     {
       "hash": "sha256-2NJf++ql6UnbRRdYWEir6MxH58bYGWDEqofII\/z+Xmo=",
@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-q7ni+bLpz\/uSgHFTp2X+KiU29PM+DuuZdXI5KjlX0cA=",
+      "hash": "sha256-If7IMathosebalEcebVUYwe1T4xV9FNewwjPkwd17ZI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,5 +253,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "tKlxbuDu"
+  "version": "DFaGf4F+"
 };
