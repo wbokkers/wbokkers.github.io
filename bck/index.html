@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Bach Cantates</title>
+    <base href="/bck/" />   <!-- This is important!! Otherwise references are located at the root of collarco.nl -->
+   <!-- <base href="/" />-->
+    <link rel="icon" href="assets/logo_blue.png">
+    <link href="manifest.json" rel="manifest" />
+    <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/site.css" rel="stylesheet" />
+    <link rel="apple-touch-icon" sizes="512x512" href="icon-512.png" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icon-192.png" />
+    <script>
+        window.scrollToElementId = (elementId) => {
+            console.info('scrolling to element', elementId);
+            var element = document.getElementById(elementId);
+            if (!element) {
+                console.warn('element was not found', elementId);
+                return false;
+            }
+            window.scrollTo(0, element.offsetTop);
+            // window.scrollBy(0,element.offsetTop);
+            //     element.scrollIntoView();
+            return true;
+        }
+    </script>
+</head>
+
+<body>
+    <app><img style="padding: 16px 0px 0px 16px" src="JSB.jpg"/></app>
+
+    <div id="blazor-error-ui">
+        Er gaat iets fout!
+        <a href="" class="reload">Probeer opnieuw...</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script>navigator.serviceWorker.register('service-worker.js');</script>
+</body>
+
+
+
+</html>
+
+
