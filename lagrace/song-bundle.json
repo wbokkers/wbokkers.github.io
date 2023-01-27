@@ -11,7 +11,7 @@
         },
         {
           "id": "1b",
-          "lyricsId": "1a-v1",
+          "lyricsId": "1b-v1",
           "mp3Id": "1a-v1"
         },
         {
@@ -207,8 +207,8 @@
         },
         {
           "id": "170",
-          "lyricsId": "",
-          "mp3Id": ""
+          "lyricsId": "170-v1",
+          "mp3Id": "1a-v1"
         }
       ]
     },
