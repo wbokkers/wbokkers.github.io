@@ -112,13 +112,13 @@
       "songs": [
         {
           "id": "151",
-          "lyricsId": "",
-          "mp3Id": ""
+          "lyricsId": "151-v1",
+          "mp3Id": "wrong-id"
         },
         {
           "id": "152",
-          "lyricsId": "",
-          "mp3Id": ""
+          "lyricsId": "wrong-id1",
+          "mp3Id": "wrong-id2"
         },
         {
           "id": "152",
