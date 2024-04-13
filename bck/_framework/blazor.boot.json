@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BachCantatas",
   "resources": {
-    "hash": "sha256-rQZamdWBxn+Fi4fAavAUr9D22BGeJ3EY1zJ2FgDfEFA=",
+    "hash": "sha256-BPAoz1XLYTL91KQ7xYDhJkNSLWYsb45Z6Pfs+cEub5w=",
     "runtime": {
       "dotnet.6.0.29.xtssxmsibu.js": "sha256-BV1wi9qAMCmpfZ+aXPplngN3cFgig0bFqWhNad3R5Lo=",
       "dotnet.timezones.blat": "sha256-csJ9EjcYXaAQrYK1S5WLY51YBLmp7zcST7wH0IDbvgg=",
@@ -9,7 +9,7 @@
       "icudt.dat": "sha256-Zuq0dWAsBm6/2lSOsz7+H9PvFaRn61KIXHMMwXDfvyE="
     },
     "assembly": {
-      "BachCantatas.dll": "sha256-Uk3Vl67uqQc3GilXFF50t3CUuU1Fud6wHtBp+vSQH7I=",
+      "BachCantatas.dll": "sha256-geNYgmsNYmso9E3AkeNq5sAi3pkobHlt7EY8EOLO5pU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-FQ2ddB+2Sr4G3k1oR8xCNDzdIa0Pw4cW8AAfkq8d3qk=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-N/1+AgwYh0dyUGTfMOUNNy4me3pRbH/xjFNNZs/39mA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jzXDK26t0d8nODLkaC+5N6FxvsbD++SMv91UZ6RaaCE=",
@@ -43,7 +43,7 @@
     },
     "satelliteResources": {
       "en": {
-        "en/BachCantatas.resources.dll": "sha256-FQ/oYlfuWBojguu+00tyu67LKOo/oc9bJR8R842gTnw="
+        "en/BachCantatas.resources.dll": "sha256-vzMc9MZDl7DEGNLvOMHA9nQcBsFKJ78bGKDjb32Bb8g="
       }
     },
     "runtimeAssets": {
