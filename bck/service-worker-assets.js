@@ -21,7 +21,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-bwrwQ+Y+JQDmQ8c8zrdfUG9jS4SMTnVzkbOAtRiGQCI=",
+      "hash": "sha256-z7G7DXcX3+72raLK+omIotvstudcgR1DdcCdmwGnHTA=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-LvqsHRYR8eYQlypv4EYHG7X7uA2HOhT1M700leptb\/k=",
+      "hash": "sha256-M+boYucr86bKUHzX7UjvuAl0V+DFWDjnrF4KGiIFwME=",
       "url": "_framework\/en\/BachCantatas.resources.dll"
     },
     {
@@ -253,5 +253,5 @@
       "url": "manifest.json"
     }
   ],
-  "version": "5iMgCDvY"
+  "version": "r4dtQRcU"
 };
