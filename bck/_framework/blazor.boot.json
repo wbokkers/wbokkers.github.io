@@ -1,7 +1,7 @@
 {
   "entryAssembly": "BachCantatas",
   "resources": {
-    "hash": "sha256-U5JW7rsJDE/dYB65fBfak3ZlV2gGSAGokqO3JqbNbJQ=",
+    "hash": "sha256-zScaJDJ5eW9tKyGFYjiFjnKFiwKEHyYE/dtyrieC5hI=",
     "runtime": {
       "dotnet.6.0.29.xtssxmsibu.js": "sha256-BV1wi9qAMCmpfZ+aXPplngN3cFgig0bFqWhNad3R5Lo=",
       "dotnet.timezones.blat": "sha256-csJ9EjcYXaAQrYK1S5WLY51YBLmp7zcST7wH0IDbvgg=",
@@ -43,7 +43,7 @@
     },
     "satelliteResources": {
       "en": {
-        "en/BachCantatas.resources.dll": "sha256-M+boYucr86bKUHzX7UjvuAl0V+DFWDjnrF4KGiIFwME="
+        "en/BachCantatas.resources.dll": "sha256-N7ed+JenvhfwjlH3j41J2R6uOyrBrnykDkcdyv9FHSU="
       }
     },
     "runtimeAssets": {
